@@ -37,35 +37,35 @@ We are a team of five developers from switzerland 🇨🇭
 
 <table>
   <tr>
-    <td width="183px" height="350px" valign="top">
+    <td width="183px" height="320px" valign="top">
       <a href="https://wireway.ch">
         <img width="170px" height="143px" style="min-width: 170px; min-height: 170px;" src="https://github.com/user-attachments/assets/5ef25b06-221c-4a94-bb21-dfd1d9c5ee77" alt="obvTiger" />
       </a>
       <h3><b>obvTiger</b></h3>
       <p>Founder of Epilogue also our server manager.</p>
     </td>
-    <td width="183px" height="350px" valign="top">
+    <td width="183px" height="320px" valign="top">
       <a href="https://pandadev.net">
         <img width="170px" height="143px" style="min-width: 170px; min-height: 170px;" src="https://github.com/user-attachments/assets/f25d647f-5337-4711-bfc6-8a63161803f8" alt="PandaDEV" />
       </a>
       <h3><b>PandaDEV</b></h3>
       <p>Our designer and front-end developer.</p>
     </td>
-    <td width="183px" height="350px" valign="top">
+    <td width="183px" height="320px" valign="top">
       <a href="https://twitter.com/tobivanqoch">
         <img width="170px" height="143px" style="min-width: 170px; min-height: 170px;" src="https://github.com/user-attachments/assets/706ef44f-3b39-4580-9cf6-f7b17a6b0000" alt="Qoch" />
       </a>
       <h3><b>Qoch</b></h3>
       <p>Project manager and responsible for the legal stuff.</p>
     </td>
-    <td width="183px" height="350px" valign="top">
+    <td width="183px" height="320px" valign="top">
       <a href="https://waradu.dev">
         <img width="170px" height="143px" style="min-width: 170px; min-height: 170px;" src="https://github.com/user-attachments/assets/c3c8103b-f0a4-4765-b861-efe51ced700b" alt="Waradu" />
       </a>
       <h3><b>Waradu</b></h3>
       <p>Front-end developer.</p>
     </td>
-    <td width="183px" height="350px" valign="top">
+    <td width="183px" height="320px" valign="top">
       <a href="https://minipandi.net">
         <img width="170px" height="143px" style="min-width: 170px; min-height: 170px;" src="https://github.com/user-attachments/assets/eed3a9b2-eb6a-44c8-9589-4524ecb67a07" alt="MiniPandi" />
       </a>

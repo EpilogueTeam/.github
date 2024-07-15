@@ -67,7 +67,7 @@ We are a team of five software developers based in 🇨🇭.
         <img width="170px" height="143px" src="https://github.com/user-attachments/assets/c3c8103b-f0a4-4765-b861-efe51ced700b" alt="Waradu" />
       </a>
       <h3><b>Waradu</b></h3>
-      <p>Front-end developer.</p>
+      <p>In his role as community manager or front-end developer, he will be responsible for shaping the outward appearance of our projects.</p>
     </td>
     <td width="183px" height="320px" valign="top">
       <a href="https://minipandi.net">

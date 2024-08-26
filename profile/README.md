@@ -36,7 +36,7 @@ Our objective is to develop a social media platform that supports mental health 
 <br>
 <br>
 
-## Our Team
+## 🫂 Our Team
 
 We are a team of five software developers based in 🇨🇭.
 <table>

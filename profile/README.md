@@ -22,7 +22,7 @@ to a wider audience by offering custom game modes within a dedicated community.
 <br>
 
 <a href="https://epilogue.social">
-  <img src="https://github.com/user-attachments/assets/c61ce1ce-8d52-46fc-a193-7f1afd83079c" width="50%" align="right" style="min-width: 350px; min-height: 200px; max-width: 500px; max-height: 380px;">
+  <img src="https://github.com/user-attachments/assets/1a0b35a4-0768-4c84-bb19-f1c491aa0492" width="50%" align="right" style="min-width: 350px; min-height: 200px; max-width: 500px; max-height: 380px;">
 </a>
 
 <h6><i>16 December 2023</i></h6>

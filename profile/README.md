@@ -1,4 +1,4 @@
-![Epilogue Banner](https://github.com/user-attachments/assets/b6f216de-f9a7-4c88-8fcd-195382b5609e)
+![Epilogue Banner](https://github.com/user-attachments/assets/2f203a5e-bea2-4152-b286-67403343bbb1)
 
 ## 📃 Projects
 

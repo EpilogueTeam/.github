@@ -1,4 +1,11 @@
-![Epilogue Banner](https://github.com/user-attachments/assets/2f203a5e-bea2-4152-b286-67403343bbb1)
+![Epilogue Banner](https://github.com/user-attachments/assets/0a09ecca-5282-4878-b02b-59c85c716b76)
+
+<a href="mailto:contact@epilogue.team">
+  <img src="https://github.com/user-attachments/assets/5b78ac70-021c-48cf-a0d8-106ba671d989" />
+</a>
+<a href="https://epilogue.team/blog">
+  <img src="https://github.com/user-attachments/assets/bca5e1cc-3247-4d4c-aaa0-d2e23376a15f" />
+</a>
 
 ## 📃 Projects
 

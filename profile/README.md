@@ -3,7 +3,7 @@
 <a href="mailto:contact@epilogue.team">
   <img src="https://github.com/user-attachments/assets/5b78ac70-021c-48cf-a0d8-106ba671d989" />
 </a>
-<a href="https://epilogue.team/blog">
+<a href="https://epilogue.team/blogs">
   <img src="https://github.com/user-attachments/assets/bca5e1cc-3247-4d4c-aaa0-d2e23376a15f" />
 </a>
 

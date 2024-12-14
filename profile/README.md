@@ -9,6 +9,22 @@
 
 ## 📃 Projects
 
+<a href="https://gippity.chat">
+  <img src="https://github.com/user-attachments/assets/1dfb153c-37bf-4804-9ac8-78a9aa7ee10e" width="50%" align="right" style="min-width: 350px; min-height: 200px; max-width: 500px; max-height: 380px;">
+</a>
+
+<h6><i>09 October 2024</i></h6>
+
+### ChatGippity
+
+The always wrong version of ChatGPT. The way we make fun of AI by building a 1:1 clone of ChatGPT with a model trained to always be wrong on purpose hence the name being /ˈdʒɪpɪti/ the phonetic version of GPT.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <a href="https://merged.games">
   <img src="https://github.com/user-attachments/assets/9d13b9bf-cf3b-4c2a-b31e-0e9ae1929a91" width="50%" align="left" style="min-width: 350px; min-height: 200px; max-width: 500px; max-height: 380px;">
 </a>
@@ -22,8 +38,6 @@ is becoming increasingly rare. Recognising this challenge, Merged is creating an
 initiative by merging carefully selected smaller servers into a unified, expansive
 project. This innovative endeavour aims to bring a special gaming experience
 to a wider audience by offering custom game modes within a dedicated community.
-<br>
-<br>
 <br>
 <br>
 <br>

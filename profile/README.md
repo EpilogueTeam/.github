@@ -85,7 +85,7 @@ We are a team of five software developers based in 🇨🇭.
     </td>
     <td width="183px" height="320px" valign="top">
       <a href="https://waradu.dev">
-        <img width="170px" height="143px" src="https://github.com/user-attachments/assets/c3c8103b-f0a4-4765-b861-efe51ced700b" alt="Waradu" />
+        <img width="170px" height="143px" src="https://avatars.githubusercontent.com/u/89935135" alt="Waradu" />
       </a>
       <h3><b>Waradu</b></h3>
       <p>In his role as community manager or front-end developer, he will be responsible for shaping the outward appearance of our projects.</p>

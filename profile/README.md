@@ -102,4 +102,4 @@ We are a team of five software developers based in 🇨🇭.
 
 <br>
 
-<sub>[EpilogueTeam](https://github.com/EpilogueTeam) © 2024 All rights reserved.</sub>
+<sub>[EpilogueTeam](https://github.com/EpilogueTeam) © 2025 All rights reserved.</sub>

@@ -1,10 +1,5 @@
-![Epilogue Banner](https://github.com/user-attachments/assets/0a09ecca-5282-4878-b02b-59c85c716b76)
-
-<a href="mailto:contact@epilogue.team">
-  <img src="https://github.com/user-attachments/assets/5b78ac70-021c-48cf-a0d8-106ba671d989" />
-</a>
-<a href="https://epilogue.team/blogs">
-  <img src="https://github.com/user-attachments/assets/bca5e1cc-3247-4d4c-aaa0-d2e23376a15f" />
+<a href="https://epilogue.team">
+  <img src="https://github.com/user-attachments/assets/4de2b377-de65-4b88-b37a-596afa9253f7" />
 </a>
 
 ## 📃 Projects
@@ -38,21 +33,6 @@ is becoming increasingly rare. Recognising this challenge, Merged is creating an
 initiative by merging carefully selected smaller servers into a unified, expansive
 project. This innovative endeavour aims to bring a special gaming experience
 to a wider audience by offering custom game modes within a dedicated community.
-<br>
-<br>
-<br>
-
-<a href="https://epilogue.social">
-  <img src="https://github.com/user-attachments/assets/9617c5d4-2398-40d6-9079-16aa0014d708" width="50%" align="right" style="min-width: 350px; min-height: 200px; max-width: 500px; max-height: 380px;">
-</a>
-
-<h6><i>16 December 2023</i></h6>
-
-### Epilogue.social
-
-Our objective is to develop a social media platform that supports mental health and offers a constructive approach to addressing depression.
-
-<br>
 <br>
 <br>
 <br>
@@ -102,4 +82,4 @@ We are a team of five software developers based in 🇨🇭.
 
 <br>
 
-<sub>[EpilogueTeam](https://github.com/EpilogueTeam) © 2025 All rights reserved.</sub>
+<sub>[Epilogue](https://github.com/EpilogueTeam) © 2025 All rights reserved.</sub>
